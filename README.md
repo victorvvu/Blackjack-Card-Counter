@@ -14,8 +14,9 @@ Build a object detection model (Yolov7) to keep the card "count" in Blackjack.
 
 
 ## 2. Results
-Model still training
-
+- [x] Model Training Finished. 
+- [ ] Explore other tracking options (DeepSORT)
+- [ ] Add ROI and count cards
 
 ## 3. Data Description
 
