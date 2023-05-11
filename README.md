@@ -20,7 +20,7 @@ After using a dataset with ~10000 images playing cards, I was able to create a m
 The next steps for this project would be training a bigger model and use more curated images. This would then open the doors for object tracking, which will allow for card counting using multiple decks.
 https://github.com/victorvvu/Blackjack-Card-Counter/blob/main/vids/demo1.gif
 
-![]((https://github.com/victorvvu/Blackjack-Card-Counter/blob/main/vids/demo1.gif)
+![](https://github.com/victorvvu/Blackjack-Card-Counter/blob/main/vids/demo1.gif)
 ## 3. Data Description
 10000 images of cards from RoboFlow
   
