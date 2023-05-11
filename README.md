@@ -18,7 +18,7 @@ The model needed more training to take advantage of object tracking, however due
 After using a dataset with ~10000 images playing cards, I was able to create a modest card detection on a Yolov8-s model. It is able to detect cards fairly accurately when one card was shown at a time. However, I experienced weird behavior when multiple cards are shown at a time next to each other. I believe this is due to the cards being fairly close and the low resolution video. 
 
 The next steps for this project would be training a bigger model and use more curated images. This would then open the doors for object tracking, which will allow for card counting using multiple decks.
-https://github.com/victorvvu/Blackjack-Card-Counter/blob/main/vids/demo1.gif
+
 
 ![](https://github.com/victorvvu/Blackjack-Card-Counter/blob/main/vids/demo1.gif)
 ## 3. Data Description
