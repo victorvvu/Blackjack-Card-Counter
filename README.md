@@ -33,7 +33,7 @@ The next steps for this project would be training a bigger model and use more cu
 
 
 ## 5. References
-ultralytics
-Roboflow
+- ultralytics
+- Roboflow
 
 
