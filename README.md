@@ -16,6 +16,8 @@ Build a object detection model (Yolov8) to keep the card "count" in Blackjack.
 I used Google Colab to train a small Yolov8 model to detect cards. I then utilized the framework provided by Ultralytics / cv2 to annotate and perform object tracking. 
 The model needed more training to take advantage of object tracking, however due to the lack of resources, I limited counting to a single deck.
 
+The main.py file can be modified slightly to allow for real time inferences.
+
 ## 2. Results
 After using a dataset with ~10000 images playing cards, I was able to create a modest card detection on a Yolov8-s model. It is able to detect cards fairly accurately when one card was shown at a time. However, I experienced weird behavior when multiple cards are shown at a time next to each other. I believe this is due to the cards being fairly close and the low resolution video. 
 
