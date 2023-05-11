@@ -10,6 +10,8 @@ At a glance, the strategy is just to keep track of low cards (2-6) which is asig
 
 Build a object detection model (Yolov8) to keep the card "count" in Blackjack.
 
+![](https://media.giphy.com/media/l3fZLMbuCOqJ82gec/giphy.gif)
+
 ##### Technical Overview
 I used Google Colab to train a small Yolov8 model to detect cards. I then utilized the framework provided by Ultralytics / cv2 to annotate and perform object tracking. 
 The model needed more training to take advantage of object tracking, however due to the lack of resources, I limited counting to a single deck.
